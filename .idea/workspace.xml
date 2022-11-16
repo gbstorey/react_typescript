@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6b2f076-efd8-4ac4-b533-5cfd2b6dc3bb" name="Changes" comment="" />
+    <list default="true" id="c6b2f076-efd8-4ac4-b533-5cfd2b6dc3bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/NewTodo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewTodo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ToDoItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todos.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/todos-context.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ToDoItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDoItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todos.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -20,10 +35,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/garrettstorey/Desktop/code/react/react_typescript",
+    "last_opened_file_path": "C:/Users/Garrett/Desktop/Code/react/react_typescript",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Garrett\\Desktop\\Code\\react\\react_typescript\\node_modules\\prettier",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/Users/garrettstorey/Desktop/code/react/react_typescript/node_modules/typescript/lib",
+    "ts.external.directory.path": "C:\\Users\\Garrett\\Desktop\\Code\\react\\react_typescript\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -36,10 +52,22 @@
       <option name="presentableId" value="Default" />
       <updated>1668625318072</updated>
       <workItem from="1668625319455" duration="2856000" />
+      <workItem from="1668637449718" duration="2813000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
